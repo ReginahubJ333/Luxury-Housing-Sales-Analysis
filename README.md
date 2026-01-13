@@ -98,6 +98,7 @@ Luxury-Housing-Sales-Analysis/
 │
 ├── Dashboard_Screenshots/
 ├── SQL/
+├── Jupyter Notebook/
 ├── PowerBI/
 ├── PPT/
 └── README.md
